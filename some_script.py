@@ -4,6 +4,13 @@
 
 # smome comment
 
+
+# configuration code
+
+# some more comment
+
+# some more comment
+
 def calculate_bmi(weight, height):
     bmi = weight / (height ** 2)
     return bmi
